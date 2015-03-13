@@ -22,7 +22,10 @@ h3 {
 	background-color: teal;
 	color: white;
 }
+.menu:hover{
+	background-color: #477519 !important;
+}
 
-.odd{
-	color: blue;
+.active{
+	background-color: #477519 !important;
 }
